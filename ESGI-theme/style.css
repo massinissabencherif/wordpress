@@ -1,11 +1,11 @@
 /**
- * Theme Name:        ESGI
+ * Theme Name:        ESGI theme
  * Theme URI:         https://esgi.fr
- * Description:       Theme d'excercice pour l'ESGI
+ * Description:       Thème d'exercie 3IW...
  * Version:           1.0.0
  * Author:            ESGI
- * Author URI:        esgi.fr
- * Tags:              portfolio, minimalist
+ * Author URI:        https://esgi.fr
+ * Tags:              minimalist, portfolio
  * Text Domain:       ESGI
  * Domain Path:       /assets/lang
  * Tested up to:      6.4
@@ -14,3 +14,7 @@
  * License:           GNU General Public License v2.0 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  */
+
+body {
+	background-color: red;
+}
